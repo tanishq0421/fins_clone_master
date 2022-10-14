@@ -6,21 +6,28 @@ export default function Header() {
             <nav class="navbar navbar-expand-lg bg-light">
                 <div class="container">
                     <a class="navbar-brand" href="#">
-                        <img src="/docs/5.2/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="30" height="24"/>
+                        <img src="C:\Users\shukl\OneDrive\Desktop\FINS\fins-clone_master\src\images\fins_logo.png" alt="Fins" width="30" height="24"/>
                     </a>
                 </div>
                 <div class="container-fluid">
-                    <a class="navbar-brand" href="#">Navbar</a>
+                    <a class="navbar-brand" href="#">Home</a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
                     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                         <div class="navbar-nav">
+<<<<<<< HEAD
                             <a class="nav-link active" aria-current="page" href="#">Home</a>
                             <a class="nav-link" href="#">Features</a>
                             <a class="nav-link" href="#">Pricing</a>
                             <a href="/discover" className="nav-link"> Discover </a>
                             <a class="nav-link disabled">Disabled</a>
+=======
+                            <a class="nav-link active" aria-current="page" href="#">Discover</a>
+                            <a class="nav-link" href="#">Learn</a>
+                            <a class="nav-link" href="#">About Us</a>
+                            <a class="nav-link" href='#'>Login/SignUP</a>
+>>>>>>> main
                         </div>
                     </div>
                 </div>
