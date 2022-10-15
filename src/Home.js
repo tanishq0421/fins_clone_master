@@ -1,12 +1,9 @@
-import React from 'react'
-import Header from './Components/Header'
-
-
-const Home = () => {
+function Home() {
     return (
-
-        <Header />
-    )
+        <div>
+            <h1> This is the Fins home page </h1>
+        </div>
+    );
 }
 
-export default Home
+export default Home;
