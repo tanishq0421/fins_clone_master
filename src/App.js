@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import './static/Discover.css';
 import Header from './Components/Header';
