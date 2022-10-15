@@ -1,10 +1,7 @@
-import React from 'react'
-
-export const Footer = () => {
+function Footer() {
   return (
-    letfooterStyle={
-      b
-    }
-  )
+    <h1> This is the footer for now, i guess </h1>
+  );
 }
 
+export default Footer;
